@@ -1,4 +1,4 @@
-# ida-pseudocode-extractor
+# IDA Pseudocode extractor
 
 # IDA Pro Hex-Rays Automatic Decompiler & Function Exporter
 
